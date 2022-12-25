@@ -1,0 +1,12 @@
+{
+  "name" : "Infinite Resource Buildings",
+  "id" : "",
+  "version" : "0.1.3",
+  "supported_game_version" : "",
+  "short_description" : "Build any resource buildings on any land, including farms, plantations, mines and a few other resources.\nInfinity Naval Base, Port, and Barracks are also added with no max level limitation.\n\nThe precondition to build those buildings are unchanged. That means you cannot build inland ports, and you must research first to unlock certain resource buildings.\n\nThis mod should not conflict with any other mod.\n\nGitHub: https://github.com/msg7086-random-stuff/Vic3-Infinite-Resource-Buildings\n\nUSE AT YOUR OWN RISK.",
+  "tags" : [],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}
